@@ -1,4 +1,4 @@
-# nal-test
+# test
 
 ## Project setup
 ```
